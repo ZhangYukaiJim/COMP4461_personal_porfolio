@@ -35,7 +35,20 @@ To facilitate innovation, we brainstormed product concepts and features that cou
 *MoSCoW*
 
 ## The Concept
-Our concept a smart classroom system called FO<sub>2</sub>CUS. Its main component is a clock embedded with sensor and real time display for CO<sub>2</sub>. 
+Our concept a smart classroom system called FO<sub>2</sub>CUS. Its main component is a clock embedded with sensor and real time display for CO<sub>2</sub>. When CO<sub>2</sub> level reaches a preset threshold, the clock will turn red to alert students and professors so that they can take actions such as open the door or take a break. In addition, the clock in wireless connected to the classroom desktop computer and a notification will be shown on the desktop to suggest the instructor to give students to take a break. 
 
-## My Contribution
+![Concept](../assets/concept.png)
+*FO<sub>2</sub>CUS Concept*
+
+A [video](https://youtu.be/KIjGsEQSl0o) is made to demonstrate the user experience.
+
+We design the system in a form of a clock so that the device can be placed where it is visible for both instructors and students. The clock is also where students look at when they feel tired during a lecture, therefore the design can also raise the awareness of the health-related impact of CO<sub>2</sub> concentration among students.
+
+![ClockFaceDesign](../assets/clockFaceDesign.png)
+
 ## Personal Reflection
+This project is very positive experience for me. Having a design background, I have always understood the importance of design thinking in innovation. In this project, by following the design thinking methodologies, our team is able to discover a problem that has been overlooked. I am also glad that we found an innovative approach to the problem.
+
+During the project, I participated expensively in the user research and ideation process. I interviewed two HKUST students to gain insight on the issue and worked with my teammates on the ideation process which lead to our final concept. 
+
+In the prototyping stage, I am designed the clock interface and edited the video prototype for demonstrating the user experience. Thorough the process, I practiced my skills on various prototyping tools and gained experiences in video editing, storyboarding, and creating visual prototype on Figma. 
