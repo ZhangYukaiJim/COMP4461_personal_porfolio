@@ -6,4 +6,4 @@ I am a final year undergraduate student major in ISD and COMP at HKUST. I share 
 ## Projects
 
 [FO<sub>2</sub>CUS: Lower CO<sub>2</sub> for Better Focus in Classroom ](./pages/project1.md)
-[Exercise-14: Motivating Chatbot for Exercise in Quarantine ](./pages/project2.md)
+[\nExercise-14: Motivating Chatbot for Exercise in Quarantine ](./pages/project2.md)
