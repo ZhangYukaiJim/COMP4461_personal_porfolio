@@ -26,13 +26,13 @@ A prototype of GradVRation is implemented with Mozilla Spoke and Mozilla Hub. Th
 We conducted usability testing with 2 users who are graduating this year. A list of problems (rated on a scale of 0 to 4) is found:
 
 Based on the feedback, we summarize our reflections into 5 points:
-* Learnability  
+* **Learnability**  
 It is difficult for users to find where they can upload their photos as there are many irrelevant buttons built into Mozilla Hub. Future prototypes can improve the user interface and make uploading content more intuitive.
-* Efficiency  
+* **Efficiency**  
 Some users find it difficult to navigate through rooms. A map should be provided to the user.
-* Memorability  
+* **Memorability**  
 Users are confused when a door cannot be opened in the prototype. The behavior of the system should match that of the real world to make the operation intuitive.
-* Errors  
+* **Errors**  
 Users find it frustrating when they cannot erase the comment they left on an image. Recovery should be allowed when errors occur.
-* Satisfaction  
+* **Satisfaction**  
 Users said that they can feel more connected if there are commentaries next to photos. Commentaries can be added to make users more satisfied.
