@@ -36,3 +36,9 @@ Users are confused when a door cannot be opened in the prototype. The behavior o
 Users find it frustrating when they cannot erase the comment they left on an image. Recovery should be allowed when errors occur.
 * **Satisfaction**  
 Users said that they can feel more connected if there are commentaries next to photos. Commentaries can be added to make users more satisfied.
+
+
+## Personal Reflection
+In this project, I am mainly responsible for implementing the prototype. I constructed the most of virtual scene (three rooms and the inter-connected corridors) using the architectural kit in Mozilla Spoke. To make the scene more unique, I put a UST firebird status in the piazza and other 3D models I made previously in the individual rooms. Prototyping Mozilla Spoke and Hubs is a new experience for me, and I was amazed that a VR experience can be prototyped so quickly on this platform. However, it can be difficult for users to distinguish individual rooms in the current prototype as the layout and textures are the same for all rooms. Given more time, the layout of the scene can be made more unique, interesting, and personalized. 
+
+As a final-year student who cannot attend the graduation ceremony, this project is very meaningful for me. After the prototype is completed, I enjoy the interaction when we put on our photos for decoration. Even though team members are in different places, the prototype makes me feel that we are together. I enjoyed the project and I think it is a great conclusion to my university life.
